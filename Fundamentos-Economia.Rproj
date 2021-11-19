@@ -1,0 +1,38 @@
+---
+title: "Participación Reflexiva"
+author: "Zarko Sion"
+date: "202020: `r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Semana 7 Fallas de mercado y el papel del estado
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+Describa conocimientos previos en realación al tema
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+
+## Semana Y
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+Describa conocimientos previos en realación al tema
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
